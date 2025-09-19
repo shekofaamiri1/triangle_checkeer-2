@@ -7,4 +7,8 @@ if x <y+z and y <x+z and z <x+y:
 if x==y and y==z and z==x:
         
     print("motasavi azla.")
+if x==y or y==z or z==x:
+        
+    print("motasavi asaqian.")
+        
         
