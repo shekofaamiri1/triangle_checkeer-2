@@ -14,5 +14,7 @@ if x==y or y==z or z==x:
     if x!=y or y!=z or z!=x:
         
         print("mokhtalive azla.")
+    if x **2 = y **2+z **2 or y **2=x **2 +z**2 or z**2 =x**2+y**2:
+        print("qaeam alzavia.")   
         
         
