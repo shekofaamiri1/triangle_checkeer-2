@@ -4,3 +4,7 @@ z=int(input("Enter z"))
 if x <y+z and y <x+z and z <x+y:
     
     print("it can be triangle!")
+if x==y and y==z and z==x:
+        
+    print("motasavi azla.")
+        
