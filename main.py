@@ -10,5 +10,9 @@ if x==y and y==z and z==x:
 if x==y or y==z or z==x:
         
     print("motasavi asaqian.")
+     
+    if x!=y or y!=z or z!=x:
+        
+        print("mokhtalive azla.")
         
         
